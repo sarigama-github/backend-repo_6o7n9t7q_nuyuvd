@@ -1,15 +1,15 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [235] using StatReload
-INFO:     Started server process [237]
+INFO:     Started reloader process [278] using StatReload
+INFO:     Started server process [280]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:34598 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:34606 - "GET /api/articles HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:34610 - "GET /api/products HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:34606 - "GET /api/articles HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:34610 - "GET /api/products HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:34606 - "GET /api/articles HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:34610 - "GET /api/products HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:34620 - "GET /api/articles HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:34606 - "GET /api/products HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:57244 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:57250 - "GET /api/products HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:57260 - "GET /api/articles HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:57260 - "GET /api/articles HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:57250 - "GET /api/products HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:57266 - "GET /api/products HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:57274 - "GET /api/articles HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:57266 - "GET /api/products HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:57274 - "GET /api/articles HTTP/1.1" 500 Internal Server Error
